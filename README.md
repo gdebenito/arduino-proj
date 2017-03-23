@@ -1,5 +1,8 @@
 # arduino-wifi
 
+## Arduino web pages
+https://www.arduino.cc/en/Reference/HomePage
+
 ## Wifi module (ESP8266)
 
 ### How to configure:
@@ -13,3 +16,7 @@ https://www.sunfounder.com/wiki/index.php?title=Esp8266_Wifi_Module
 http://www.naylampmechatronics.com/blog/22_Tutorial-Lector-RFID-RC522.html
 
 https://www.luisllamas.es/arduino-rfid-mifare-rc522/
+
+### NFC libraries for rfid
+
+https://github.com/miguelbalboa/rfid
